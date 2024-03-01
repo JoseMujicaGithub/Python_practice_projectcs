@@ -1,0 +1,1 @@
+Here are my versions of the 10 practice projects On FreeCodeCamp that I've Been working on to get my Python certificate.
